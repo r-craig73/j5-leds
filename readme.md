@@ -16,9 +16,6 @@
 - [x] As a user, I want to a sensor to quickly turn on and off (blinking/winking).
 
 ### Post MVP User and Administrator stories
-- [ ] As a user, I want to control different sensors.
-- [ ] As a user, I want to CURD-L sensor capabilities.
-- [ ] User Authentication between Administrator and Users (email and password)
 - [ ] As a user, I want to turn on multiple sensors (new interface).
 - [ ] As a user, I want to customize a sensor's action (on/off, blinking/sensor, etc.).
 - [ ] As a user, I want to to know when a sensor is either working or not working.

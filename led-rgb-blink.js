@@ -10,8 +10,7 @@ five.Board().on("ready", function() {
     }
   });
 
-  // Turn it on and set the initial color
-  led.on();
+  // Turn LED on and set the initial color
   led.color("#0000FF"); // red FF0000, green 00FF00, blue 0000FF
   
   // Blink every second

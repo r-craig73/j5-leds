@@ -5,7 +5,7 @@
 #### GitHub repository: https://github.com/r-craig73/j5-leds
 
 ### Description
-#### Scripts using JavaScript, johnny-five webpack, and an Arduino UNO microcontroller with different sensors (LED or RGB LED sensors).
+#### Scripts using JavaScript, johnny-five webpack, and an Arduino UNO microcontroller with different sensors (LED and RGB LED sensor).
 
 ### Home Page Screenshot
 <kbd><img src="" alt="Home Page Screenshot later?"></kbd>
@@ -16,15 +16,13 @@
 - [x] As a user, I want to a sensor to quickly turn on and off (blinking/winking).
 
 ### Post MVP User and Administrator stories
-- [ ] As a user, I want to turn on multiple sensors (new interface).
+- [ ] As a user, I want to control multiple sensors (new interface).
 - [ ] As a user, I want to customize a sensor's action (on/off, blinking/sensor, etc.).
 - [ ] As a user, I want to to know when a sensor is either working or not working.
-- [ ] As a user, I want to record and store time and the LED light voltage's value into a database.
-- [ ] As a user, I want to record and store time and the LED light color into a database.
+- [ ] As a user, I want to record and store time and the LED light voltage's value.
+- [ ] As a user, I want to record and store time and the LED light color.
 - [ ] As a user, I want to select and visualize my sensor results within the application, using a linear chart (voltage vs. time, line graph, etc.).
-- [ ] As a user, I want to sensor to alert about a certain event (Portland news, a special alert, earthquake warning, etc.).
-- [ ] As a admin, I want CURD-L capabilities for ALL users.
-- [ ] As a admin, I want users to have '--R--L' (out of CRUD-L) capabilities on other user's sensors.
+- [ ] As a user, I want to sensor to alert certain events (Portland news, a special alert, earthquake warning, etc.).
 
 ### Instructions (assuming Mac OS)
 * Clone repository and move to the home repository folder `j5-lec`.
@@ -50,6 +48,7 @@ Webpacks: johnny-five, node-gyp
 * _Getting Started with Arduino_ 2nd Edition by Massimo Banzi
 * johnny-five's GitHub: https://github.com/rwaldron/johnny-five/wiki/Getting-Started#trouble-shooting 
 * johnny-five's Homepage & sample scripts: http://johnny-five.io/
+* 
 
 Copyright (c) 2018 **_RC productions_**
 

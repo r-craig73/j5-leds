@@ -1,0 +1,20 @@
+{
+  "name": "j5-leds",
+  "version": "1.0.0",
+  "description": "Scripts using JavaScript, johnny-five webpack, and an Arduino UNO microcontroller with different sensors (LED and RGB LED sensor)",
+  "main": "blink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-craig73/j5-leds.git"
+  },
+  "keywords": [],
+  "author": "Ron Craig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r-craig73/j5-leds/"
+  },
+  "homepage": "https://github.com/r-craig73/j5-leds#readme"
+}

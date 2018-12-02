@@ -27,7 +27,6 @@
 ### Instructions (assuming Mac OS)
 * Clone repository and move to the home repository folder `j5-lec`.
 * Install Xcode.
-* Install Node.js https://nodejs.org/en/.
 * Install node-gyp `$ npm install -g node-gyp`.
 * Run: `$ npm install johnny-five`
 * Verify the Arduino UNO is connected via USB to your computer.
@@ -48,7 +47,7 @@ Webpacks: johnny-five, node-gyp
 * _Getting Started with Arduino_ 2nd Edition by Massimo Banzi
 * johnny-five's GitHub: https://github.com/rwaldron/johnny-five/wiki/Getting-Started#trouble-shooting 
 * johnny-five's Homepage & sample scripts: http://johnny-five.io/
-* 
+* How to Create a Smart Device With Arduino and Node.js Using PubNub: https://code.tutsplus.com/tutorials/how-to-create-a-smart-device-with-arduino-and-nodejs-using-pubnub--cms-25508 
 
 Copyright (c) 2018 **_RC productions_**
 

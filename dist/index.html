@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" >
+    <script type="text/javascript" src="bundle.js"></script>
+    <title>Cheap, Color LED Remote Control</title>
+  </head>
+  <body>
+    <div class="container text-center">
+    <h2>A very cheap RGB LED Remote Control!</h2>
+
+    <div class="card">
+      <div class="card-body">
+          <form for="red" class="brightness fa">
+            Red
+            <input id="red" type="range" min="0" max="255" step="1" value="0">
+          </form>
+          <form for="green" class="brightness fa">
+            Green
+            <input id="green" type="range" min="0" max="255" step="1" value="0">
+          </form>
+          <form for="blue" class="brightness fa">
+            Blue
+            <input id="blue" type="range" min="0" max="255" step="1" value="0">
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
